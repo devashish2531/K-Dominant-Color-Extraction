@@ -34,7 +34,6 @@ networkx==2.5
 numpy==1.19.1
 opencv-python==4.4.0.44
 packaging==20.4
-pandas==1.1.1
 pandocfilters==1.4.2
 parso==0.7.1
 pickleshare==0.7.5
@@ -64,7 +63,7 @@ soupsieve==2.0.1
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.1.0
-tifffile==2020.10.1
+tifffile==2020.9.3
 tornado==6.0.4
 tqdm==4.50.0
 traitlets==5.0.0
